@@ -37,3 +37,6 @@ Created a report or dashboard for non-technical stakeholders
 
 
 ----OUTPUT--------
+
+
+![Image](https://github.com/user-attachments/assets/9819f755-f95a-4d1e-9599-a26e2d4e2166)
